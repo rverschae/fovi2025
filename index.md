@@ -11,7 +11,7 @@ First Online Seminar of the FOVI240110 project on Artificial Intelligence and Ro
 Seminar topic: 3D modelling in Outdoor Images and Satellite Images
 
 Talks:
-1. *Outdoor 3D capture with polarization*, [Shohei Nobuhara]([https://shohei.nobuhara.org/index.en.html](https://scholar.google.co.jp/citations?user=keXiLQ0AAAAJ) (Kyoto Institute of Technology, Japan)
+1. *Outdoor 3D capture with polarization*, [Shohei Nobuhara](https://scholar.google.co.jp/citations?user=keXiLQ0AAAAJ) (Kyoto Institute of Technology, Japan)
 2. *S-EO A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications*, [Elias Masquil](https://scholar.google.com/citations?user=eJU1kjEAAAAJ&hl=en) (Universidad de la República, Uruguay)
 
 Date: May 7th, 8:00 - 9:30 CLT
