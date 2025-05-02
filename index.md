@@ -10,7 +10,10 @@
 Project led by Universidad de O'Higgins, in collaboration with L3S Research Center (Germany), ENS Paris-Saclay (Francia), Universidad de la República (Uruguay), Universidad Católica del Uruguay​, Universidad de Chile, Pontificia Universidad Católica de Chile, and Universidad del Bío Bío, Chile.
 
 ## Activities: Online Seminar 1
-<img style="width: 30em;" src="http://rodrigo.verschae.org/fovi2025/28-04-25-SEMINAR TOPIC STORY.png"></a>
+
+<div style='float: right'>
+<img style="width: 24em;" src="http://rodrigo.verschae.org/fovi2025/28-04-25-SEMINAR TOPIC STORY.png"></a>
+</div>
 
 First Online Seminar of the FOVI240110 project on Artificial Intelligence and Robotics for Remote and Proximal Sensing in Precision Agriculture.
 
@@ -24,7 +27,6 @@ First Online Seminar of the FOVI240110 project on Artificial Intelligence and Ro
 
 🌐 Registration Link:
 [Register here](https://forms.gle/vEAQLMSjvoPDPXP47)
-
 
 ## Activities: Online Seminar 2
 
