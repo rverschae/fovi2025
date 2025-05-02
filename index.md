@@ -21,6 +21,7 @@ First Online Seminar of the FOVI240110 project on Artificial Intelligence and Ro
 🌐 Registration Link:
 [Register here](https://forms.gle/vEAQLMSjvoPDPXP47)
 
+<img style="width: 8em;" src="http://rodrigo.verschae.org/fovi2025/28-04-25-SEMINAR TOPIC STORY.png"></a>
 
 ## Activities: Online Seminar 2
 
