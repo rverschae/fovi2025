@@ -1,13 +1,17 @@
 # FOVI240110 project on "Artificial Intelligence and Robotics for Remote and Proximal Sensing in Precision Agriculture"
-Fondo de Vinculacion Internacional ANID
-
-Project led by Universidad de O'Higgins, in collaboration with L3S Research Center (Germany), ENS Paris-Saclay (Francia), Universidad de la República (Uruguay), Universidad Católica del Uruguay​, Universidad de Chile, Pontificia Universidad Católica de Chile, and Universidad del Bío Bío, Chile.
+## Fondo de Vinculacion Internacional (FOVI) ANID
 
 <div style='float: right'>
 <a href="https://rodrigo.verschae.org/fovi2025/"><img style="width: 8em;" src="http://rodrigo.verschae.org/fovi2025/robot_cherry.jpg"></a>
 </div>
 
+(website underconstruction)
+
+Project led by Universidad de O'Higgins, in collaboration with L3S Research Center (Germany), ENS Paris-Saclay (Francia), Universidad de la República (Uruguay), Universidad Católica del Uruguay​, Universidad de Chile, Pontificia Universidad Católica de Chile, and Universidad del Bío Bío, Chile.
+
 ## Activities: Online Seminar 1
+<img style="width: 30em;" src="http://rodrigo.verschae.org/fovi2025/28-04-25-SEMINAR TOPIC STORY.png"></a>
+
 First Online Seminar of the FOVI240110 project on Artificial Intelligence and Robotics for Remote and Proximal Sensing in Precision Agriculture.
 
 📌 Seminar topic: 3D modelling in Outdoor Images and Satellite Images
@@ -21,7 +25,6 @@ First Online Seminar of the FOVI240110 project on Artificial Intelligence and Ro
 🌐 Registration Link:
 [Register here](https://forms.gle/vEAQLMSjvoPDPXP47)
 
-<img style="width: 8em;" src="http://rodrigo.verschae.org/fovi2025/28-04-25-SEMINAR TOPIC STORY.png"></a>
 
 ## Activities: Online Seminar 2
 
