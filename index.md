@@ -11,6 +11,8 @@ Project led by Universidad de O'Higgins, in collaboration with L3S Research Cent
 
 ## Activities: Online Seminar 1
 
+📅 Date: May 7th, 8:00 - 9:30 CLT 🇨🇱 | 9:00 - 10:30 UYT 🇺🇾 | 14:00 - 15:30 CET 🇫🇷 🇩🇪 | 21:00 - 22:30 JST 🇯🇵 
+
 <div style='float: right'>
 <img style="width: 24em;" src="http://rodrigo.verschae.org/fovi2025/28-04-25-SEMINAR TOPIC STORY.png">
 </div>
@@ -26,7 +28,6 @@ First Online Seminar of the FOVI240110 project on Artificial Intelligence and Ro
 🌐 Registration Link:
 [Register here](https://forms.gle/vEAQLMSjvoPDPXP47)
 
-📅 Date: May 7th, 8:00 - 9:30 CLT 🇨🇱 | 9:00 - 10:30 UYT 🇺🇾 | 14:00 - 15:30 CET 🇫🇷 🇩🇪 | 21:00 - 22:30 JST 🇯🇵 
 
 ## Activities: Online Seminar 2
 
