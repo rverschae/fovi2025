@@ -37,6 +37,8 @@ Sala de Consejo ICI, Edificio B, Campus Rancagua Universidad de O'Higgins
 <img style="width: 32em;" src="http://rodrigo.verschae.org/fovi2025/Charla Imágenes Satelitales - pantalla.png">
 </div>
 
+
+
 Seminar of the FOVI240110 project on Artificial Intelligence and Robotics for Remote and Proximal Sensing in Precision Agriculture.
 
 📌 Seminar topic: Multi- and Hyper-spectral Satellite Imaging,  [Enric Meinhardt](https://centreborelli.ens-paris-saclay.fr/fr/annuaire-des-personnes/enric-meinhardt-llopis) (ENS Paris-Saclay, France)
