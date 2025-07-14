@@ -28,9 +28,21 @@ First Online Seminar of the FOVI240110 project on Artificial Intelligence and Ro
 🌐 Registration Link:
 [Register here](https://forms.gle/vEAQLMSjvoPDPXP47)
 
+## Activities: In person Seminar 2
 
 ## Activities: Online Seminar 2
+## Activities: Online Seminar 3
 
+📅 Date: July 17th, 11:00 CLT 🇨🇱 
+Sala de Consejo ICI, Edificio B, Campus Rancagua Universidad de O'Higgins
+
+<div style='float: right'>
+<img style="width: 24em;" src="http://rodrigo.verschae.org/fovi2025/Charla Imágenes Satelitales - pantalla.png">
+</div>
+
+Seminar of the FOVI240110 project on Artificial Intelligence and Robotics for Remote and Proximal Sensing in Precision Agriculture.
+
+📌 Seminar topic: Multi- and Hyper-spectral Satellite Imaging,  [Enric Meinhardt](https://centreborelli.ens-paris-saclay.fr/fr/annuaire-des-personnes/enric-meinhardt-llopis) (ENS Paris-Saclay, France)
 
 ## Contact 
 + Email: rodrigo [at] verschae [dot] org  
