@@ -14,7 +14,7 @@ Project led by Universidad de O'Higgins, in collaboration with L3S Research Cent
 📅 Date: May 7th, 8:00 - 9:30 CLT 🇨🇱 | 9:00 - 10:30 UYT 🇺🇾 | 14:00 - 15:30 CET 🇫🇷 🇩🇪 | 21:00 - 22:30 JST 🇯🇵 
 
 <div style='float: right'>
-<img style="width: 24em;" src="http://rodrigo.verschae.org/fovi2025/28-04-25-SEMINAR TOPIC STORY.png">
+<img style="width: 12em;" src="http://rodrigo.verschae.org/fovi2025/28-04-25-SEMINAR TOPIC STORY.png">
 </div>
 
 First Online Seminar of the FOVI240110 project on Artificial Intelligence and Robotics for Remote and Proximal Sensing in Precision Agriculture.
@@ -34,7 +34,7 @@ First Online Seminar of the FOVI240110 project on Artificial Intelligence and Ro
 Sala de Consejo ICI, Edificio B, Campus Rancagua Universidad de O'Higgins
 
 <div style='float: right'>
-<img style="width: 32em;" src="http://rodrigo.verschae.org/fovi2025/Charla Imágenes Satelitales - pantalla.png">
+<img style="width: 24em;" src="http://rodrigo.verschae.org/fovi2025/Charla Imágenes Satelitales - pantalla.png">
 </div>
 
 
