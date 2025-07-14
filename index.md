@@ -28,10 +28,7 @@ First Online Seminar of the FOVI240110 project on Artificial Intelligence and Ro
 🌐 Registration Link:
 [Register here](https://forms.gle/vEAQLMSjvoPDPXP47)
 
-## Activities: In person Seminar 2
-
-## Activities: Online Seminar 2
-## Activities: Online Seminar 3
+## Activities: In-person Seminar 2
 
 📅 Date: July 17th, 11:00 CLT 🇨🇱 
 Sala de Consejo ICI, Edificio B, Campus Rancagua Universidad de O'Higgins
@@ -46,3 +43,8 @@ Seminar of the FOVI240110 project on Artificial Intelligence and Robotics for Re
 
 ## Contact 
 + Email: rodrigo [at] verschae [dot] org  
+
+## Activities: Online Seminar 2
+## Activities: Online Seminar 3
+
+
