@@ -10,7 +10,7 @@
 Project led by [Universidad de O'Higgins](https://sites.google.com/uoh.cl/uoh-ris-lab/) (Chile), in collaboration with [L3S Research Center](https://www.l3s.de/) (Germany), [ENS Paris-Saclay](https://centreborelli.ens-paris-saclay.fr/en) (Francia), [Universidad de la República](https://udelar.edu.uy/portal/) (Uruguay), [Universidad Católica del Uruguay](https://www.ucu.edu.uy/) (Uruguay)​, and [Universidad de Chile](https://ingenieria.uchile.cl/), [Pontificia Universidad Católica de Chile](https://www.uc.cl/), and [Universidad del Bío Bío](https://www.ubiobio.cl/w/), Chile.
 
 Some of the researchers involved in the project are:
-- [Rodrigo Verschae](http://rodrigo.verschae.org), Universidad de O'Higgihs, Chile -- Project Director,
+- [Rodrigo Verschae](https://scholar.google.com/citations?user=Fv1lZNkAAAAJ&hl=en), Universidad de O'Higgihs, Chile -- Project Director,
 - [Gabriele Facciolo](https://scholar.google.com/citations?user=gAGVgXsAAAAJ&hl=en), ENS Paris-Saclay, France
 - [Nicolas Navarro-Guerrero](https://scholar.google.com/citations?user=SeQvYQ0AAAAJ&hl=en), L3S Research Center, Hannover University, Germany
 - [Gonzalo Tejera](https://dblp.org/pid/71/3052.html), Universidad de la Republica, Uruguay
