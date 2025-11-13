@@ -15,6 +15,7 @@ Some of the researchers involved in the project are:
 - [Nicolas Navarro-Guerrero](https://scholar.google.com/citations?user=SeQvYQ0AAAAJ&hl=en), L3S Research Center, Hannover University, Germany
 - [Gonzalo Tejera](https://dblp.org/pid/71/3052.html), Universidad de la Republica, Uruguay
 - [J. Matias Di Martino](https://scholar.google.com/citations?user=rGHOw04AAAAJ&hl=es), Universidad Catolica del Uruguay, Uruguay
+- [Javier Preciozzi](https://scholar.google.com/citations?user=Rcstv44AAAAJ&hl=en), Universidad de la Republica, Uruguay
 - [Javier Ruiz-del-Solar](https://scholar.google.com/citations?user=U0XHBs8AAAAJ&hl=en), Universidad de Chile, Chile
 - [Cristóbal Quiñinao](https://scholar.google.com/citations?user=v2Tv6ZQAAAAJ&hl=es), Universidad Catolica de Chile, Chile
 - [Christopher Flores](https://scholar.google.com/citations?user=YKqQOkUAAAAJ&hl=en&oi=ao), Universidad del Biobio, Chile
