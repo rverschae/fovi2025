@@ -11,6 +11,8 @@ Project led by [Universidad de O'Higgins](https://sites.google.com/uoh.cl/uoh-ri
 
 Some of the researchers involved in the project are:
 - [Rodrigo Verschae](https://scholar.google.com/citations?user=Fv1lZNkAAAAJ&hl=en), Universidad de O'Higgihs, Chile -- Project Director,
+- [Karen Mesa](https://scholar.google.com/citations?user=Kr2g5dUAAAAJ&hl=en&oi=ao), Universidad de O'Higgihs, Chile
+- [Daniel Casagrande](https://scholar.google.com/citations?user=CxOD_YMAAAAJ&hl=en&oi=ao), Universidad de O'Higgihs, Chile
 - [Gabriele Facciolo](https://scholar.google.com/citations?user=gAGVgXsAAAAJ&hl=en), ENS Paris-Saclay, France
 - [Nicolas Navarro-Guerrero](https://scholar.google.com/citations?user=SeQvYQ0AAAAJ&hl=en), L3S Research Center, Hannover University, Germany
 - [Gonzalo Tejera](https://dblp.org/pid/71/3052.html), Universidad de la Republica, Uruguay
